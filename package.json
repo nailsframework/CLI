@@ -1,0 +1,24 @@
+{
+  "name": "@nailsframework/cli",
+  "version": "1.0.0",
+  "description": "Nailsframework CLI",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nailsframework/CLI.git"
+  },
+  "author": "Dominic Järmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nailsframework/CLI/issues"
+  },
+  "homepage": "https://github.com/nailsframework/CLI#readme",
+  "bin": {
+    "nails": "bin/nails.js"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  }
+}
